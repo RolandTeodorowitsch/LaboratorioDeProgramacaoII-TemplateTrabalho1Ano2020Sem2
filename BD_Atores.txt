@@ -22,10 +22,10 @@ Ben Affleck
 Brad Pitt
 --Bastardos Inglórios (2009)
 --O Conselheiro do Crime (2013)
---Jogo de Espiões (2001)
 --Treze Homens e um Novo Segredo (2007)
 --Doze Homens e Outro Segredo (2004)
 --Onze Homens e um Segredo (2001)
+--Jogo de Espiões (2001)
 #
 Bruce Willis
 --Grande Hotel (1995)
@@ -93,10 +93,10 @@ Johnny Depp
 --O Último Portal (1999)
 #
 Julia Roberts
+--Todos Dizem Eu Te Amo (1996)
 --Doze Homens e Outro Segredo (2004)
 --Onze Homens e um Segredo (2001)
 --Erin Brockovich, uma Mulher de Talento (2000)
---Todos Dizem Eu Te Amo (1996)
 #
 Leonardo DiCaprio
 --Celebridades (1998)
@@ -147,7 +147,6 @@ Morgan Freeman
 Natalie Portman
 --Todos Dizem Eu Te Amo (1996)
 --Paris, Te Amo (2006)
---Todos Dizem Eu Te Amo (1996)
 #
 Nicolas Cage
 --Vivendo no Limite (1999)
@@ -162,10 +161,10 @@ Owen Wilson
 --Meia-Noite em Paris (2011)
 #
 Penélope Cruz
+--Vicky Cristina Barcelona (2008)
 --Abraços Partidos (2009)
 --Volver (2006)
 --O Conselheiro do Crime (2013)
---Vicky Cristina Barcelona (2008)
 #
 Robert De Niro
 --Cassino (1995)
@@ -192,8 +191,8 @@ Samuel L. Jackson
 Scarlett Johansson
 --Vicky Cristina Barcelona (2008)
 --Scoop - O Grande Furo (2006)
---O Grande Truque (2006)
 --Match Point - Ponto Final (2005)
+--O Grande Truque (2006)
 #
 Tom Cruise
 --Guerra dos Mundos (2005)
